@@ -1,0 +1,4 @@
+HumanMessage(content="Hello, I need help with my order #12345.")
+AIMessage(content="Sure! Can you please provide more details about the issue?")
+HumanMessage(content="I want my refund back.")
+AIMessage(content="I have processed your refund. You should receive it within 5-7 business days.")
